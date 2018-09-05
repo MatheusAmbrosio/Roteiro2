@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1534786085 source:c:\users\aluno.ci-hp\desktop\roteiro 2\questao1\main.cpp
+	<iostream>
+	"Pedido.h"
+	"MesaDeRestaurante.h"
+	"RestauranteCaseiro.h"
+
+1534787307 c:\users\aluno.ci-hp\desktop\roteiro 2\questao1\include\pedido.h
+
+1534790127 c:\users\aluno.ci-hp\desktop\roteiro 2\questao1\include\mesaderestaurante.h
+	"Pedido.h"
+
+1534790104 c:\users\aluno.ci-hp\desktop\roteiro 2\questao1\include\restaurantecaseiro.h
+
+1534775952 source:c:\users\aluno.ci-hp\desktop\roteiro2-master\roteiro 2\questao1\main.cpp
+	<iostream>
+	"Pedido.h"
+	"MesaDeRestaurante.h"
+	"RestauranteCaseiro.h"
+
+1534958791 c:\users\aluno.ci-hp\desktop\roteiro2-master\roteiro 2\questao1\include\pedido.h
+	<string>
+
+1534775952 c:\users\aluno.ci-hp\desktop\roteiro2-master\roteiro 2\questao1\include\mesaderestaurante.h
+	"Pedido.h"
+
+1534958887 c:\users\aluno.ci-hp\desktop\roteiro2-master\roteiro 2\questao1\include\restaurantecaseiro.h
+	"Pedido.h"
+	"MesaDeRestaurante.h"
+
+1534958838 source:c:\users\aluno.ci-hp\desktop\roteiro2-master\roteiro 2\questao1\src\mesaderestaurante.cpp
+	"MesaDeRestaurante.h"
+	"Pedido.h"
+
+1534775952 source:c:\users\aluno.ci-hp\desktop\roteiro2-master\roteiro 2\questao1\src\pedido.cpp
+	"Pedido.h"
+
+1534959116 source:c:\users\aluno.ci-hp\desktop\roteiro2-master\roteiro 2\questao1\src\restaurantecaseiro.cpp
+	"RestauranteCaseiro.h"
+	"MesaDeRestaurante.h"
+	"Pedido.h"
+

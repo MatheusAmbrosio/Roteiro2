@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1534963021 source:c:\users\aluno.ci-hp\desktop\roteiro 2\questao2\main.cpp
+	<iostream>
+	"Pessoa.h"
+	<string>
+
+1534962854 c:\users\aluno.ci-hp\desktop\roteiro 2\questao2\include\pessoa.h
+	"Endereco.h"
+
+1534963065 c:\users\aluno.ci-hp\desktop\roteiro 2\questao2\include\endereco.h
+	<string>
+
+1534960733 source:c:\users\aluno.ci-hp\desktop\roteiro 2\questao2\src\cadastrodepessoas.cpp
+	"CadastroDePessoas.h"
+
+1534960733 c:\users\aluno.ci-hp\desktop\roteiro 2\questao2\include\cadastrodepessoas.h
+
