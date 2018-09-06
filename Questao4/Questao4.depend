@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1536204747 source:c:\users\livinha\desktop\roteiro 2\questao4\src\circulo.cpp
+	"Circulo.h"
+
+1536204731 c:\users\livinha\desktop\roteiro 2\questao4\include\circulo.h
+	"FiguraGeometrica.h"
+
+1536204437 c:\users\livinha\desktop\roteiro 2\questao4\include\figurageometrica.h
+	<iostream>
+	<string>
+
+1536204437 source:c:\users\livinha\desktop\roteiro 2\questao4\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1536204662 source:c:\users\livinha\desktop\roteiro 2\questao4\main.cpp
+	<iostream>
+	"FiguraGeometrica.h"
+	"Triangulo.h"
+	"Quadrado.h"
+	"Circulo.h"
+
+1536204731 c:\users\livinha\desktop\roteiro 2\questao4\include\triangulo.h
+	"FiguraGeometrica.h"
+
+1536204731 c:\users\livinha\desktop\roteiro 2\questao4\include\quadrado.h
+	"FiguraGeometrica.h"
+
+1536204761 source:c:\users\livinha\desktop\roteiro 2\questao4\src\triangulo.cpp
+	"Triangulo.h"
+
